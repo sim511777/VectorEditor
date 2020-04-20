@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorEditor", "VectorEditor\VectorEditor.csproj", "{67D5D7F9-8A4E-441D-8D14-81F85A2FD6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D5D7F9-8A4E-441D-8D14-81F85A2FD6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D5D7F9-8A4E-441D-8D14-81F85A2FD6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D5D7F9-8A4E-441D-8D14-81F85A2FD6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D5D7F9-8A4E-441D-8D14-81F85A2FD6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E9040E-7D4C-44C2-A57A-B6712230BD99}
+	EndGlobalSection
+EndGlobal
