@@ -1,9 +1,9 @@
 EntityType
  - Point
  - Line
+ - Arc
  - Polyline
  - Circle
- - Arc
  - Ellipse
  - Spiral
  - Rectangle
