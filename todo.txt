@@ -1,0 +1,36 @@
+EntityType
+ - Point
+ - Line
+ - Polyline
+ - Circle
+ - Arc
+ - Ellipse
+ - Spiral
+ - Rectangle
+ - Text
+ - Barcode
+ - Image
+Edit
+ - copy
+ - cut
+ - paste
+ - delete
+ - undo
+ - redo
+ - array copy
+File
+ - new
+ - save
+ - open
+ - insert
+View
+ - zoom to contents
+Mouse
+ - wheel zoom
+ - panning
+Tool
+ - block / explode
+ - hatch
+Etc
+ - draw area
+ - axis transform
